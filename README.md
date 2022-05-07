@@ -36,7 +36,7 @@ Create a binary classifier that is capable of predicting whether applicants will
 ### Summary
 By removing noisy variables, adding neurons and hidden layers I was about to predidict whether a donation is successfull by an accuract of 0.7250 and Loss of 0.5571
 ###### Recommendation
-Use a Random Forest Classifier to determine the inport input variables
+Use a Random Forest Classifier to determine the important input variables
 <!--
 Overview of the analysis: Explain the purpose of this analysis.
 
