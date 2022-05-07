@@ -29,9 +29,9 @@ Create a binary classifier that is capable of predicting whether applicants will
         - Using different activation functions for the hidden layers.
         - Adding or reducing the number of epochs to the training regimen.
 
-![image name](https from github)
+![image1](https://github.com/robyndook/Neural_Network_Charity_Analysis/blob/7f18bb3c0a6096fea3b2fc8df5f76fbb13515a4d/Images/2022-05-07_14-57-20.jpg)
 
-![image name](https from github)
+![image](https://github.com/robyndook/Neural_Network_Charity_Analysis/blob/7f18bb3c0a6096fea3b2fc8df5f76fbb13515a4d/Images/2022-05-07_14-57-57.jpg)
 
 ### Summary
 By removing noisy variables, adding neurons and hidden layers I was about to predidict whether a donation is successfull by an accuract of 0.7250 and Loss of 0.5571
